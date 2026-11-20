@@ -53,3 +53,4 @@ Workflow:
 - Creating art, music or audio assets (planning and specifying them is fine).
 - Publishing or store deployment.
 - Non-skill Claude Code extensions (hooks, MCP servers, plugins).
+- For detailed steps, checklists and a design document template, read references/game-design.md.

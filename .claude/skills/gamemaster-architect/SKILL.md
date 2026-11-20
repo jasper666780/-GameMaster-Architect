@@ -1,6 +1,6 @@
 ---
 name: gamemaster-architect
-description: Engine-agnostic game development and Claude Code skill creation. Use when the user wants to design, plan, build, debug, polish or verify a video game in any engine or language (Godot, Unity, Unreal, Pygame, web/JS, etc.), or wants to create, structure, test, review or improve a Claude Code skill (SKILL.md). Not for general programming unrelated to games or skills.
+description: Engine-agnostic game development and Claude Code skill creation. Use when the user wants to design, plan, build, debug, polish or verify a video game in any engine or language (Godot, Unity, Unreal, Pygame, web/JS, etc.), or wants to create, structure, test, review, troubleshoot or improve a Claude Code skill (SKILL.md), including fixing a skill that does not trigger when it should. Not for general programming unrelated to games or skills.
 ---
 
 # GameMaster-Architect

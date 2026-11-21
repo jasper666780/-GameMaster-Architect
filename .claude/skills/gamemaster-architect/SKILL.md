@@ -40,6 +40,8 @@ Workflow:
 4. **Debug and polish**: find the root cause of gameplay bugs, then tune feel and balance and handle performance and edge cases.
 5. **Verify**: run or build the game, exercise the core loop, and use the engine's test tools where available. Report results.
 
+For detailed steps, checklists and a design document template, read `references/game-design.md`.
+
 ## Function B: Skill creation
 
 Workflow:
@@ -53,4 +55,3 @@ Workflow:
 - Creating art, music or audio assets (planning and specifying them is fine).
 - Publishing or store deployment.
 - Non-skill Claude Code extensions (hooks, MCP servers, plugins).
-- For detailed steps, checklists and a design document template, read references/game-design.md.

@@ -51,6 +51,8 @@ Workflow:
 4. **Test**: check the structure (frontmatter parses, referenced files exist), check that prompts which should trigger it do and unrelated prompts don't, and check output quality against a checklist.
 5. **Improve**: when auditing an existing skill, tighten the description, organization and instructions without changing its intended behavior unless approved.
 
+For detailed steps, test commands, troubleshooting and a SKILL.md starter, read `references/skill-authoring.md`.
+
 ## Out of scope
 - Creating art, music or audio assets (planning and specifying them is fine).
 - Publishing or store deployment.
